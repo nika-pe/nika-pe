@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Domenika! 👋
 
-<!--
-**nika-pe/nika-pe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Finance & Accounting Expert
 
-Here are some ideas to get you started:
+I am a transitioner from Finance/Accounting to Data Analytics. I bridge the gap between complex financial figures and actionable business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 **Current Focus:** Analyzing financial datasets to drive decision-making.
+- 🎓 **Education:** Google Data Analytics Professional Certificate.
+- 🛠 **Tech Stack:** 
+  - **Data Analysis:** SQL (BigQuery, PostgreSQL), R, Excel (Advanced).
+  - **Visualization:** Tableau, Looker.
+  - **Domain Knowledge:** Financial Reporting, Budgeting, Tax Accounting.
+
+---
+
+
+
+
+### Connect with me:
+[LinkedIn](https://www.linkedin.com/in/domenika-pehlivanidi-a65119232/) |
